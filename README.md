@@ -1,16 +1,17 @@
-## Hi there 👋
+#Hi, I'm Leonardo Teixeira Gomes 👋
 
-<!--
-**leotgomes2007-byte/leotgomes2007-byte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔭 **Currently working:**  
+I am currently a Web Development Intern at the Santa Maria Municipal Government. My main focus is the PHP ecosystem, where I work daily with the Laravel framework and the Filament environment to create efficient and modern solutions, including database modeling and management.
 
-Here are some ideas to get you started:
+🛠️ **Tech Stack:**
+Languages: PHP, Java, HTML, CSS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Frameworks: Laravel, Filament
+
+Frontend: Tailwind CSS, Livewire
+
+Data: Database Modeling and SQL Manipulation
+
+📬**Contact Me:**
+📧Leotgomes2007@gmail.com
+📍Location: Santa Maria, RS - Brazil
