@@ -9,4 +9,4 @@ I am currently a Web Development Intern at the Santa Maria Municipal Government.
 ![](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white) ![](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) ![](https://img.shields.io/badge/Livewire-FB70A9?style=for-the-badge&logo=livewire&logoColor=white) ![](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### 📬 Contact Me:
-[![](https://img.shields.io/badge/Instagram-ff8ccf?style=for-the-badge&logo=instagram&logoColor=white)](https://www.insta
+[![](https://img.shields.io/badge/Instagram-ff8ccf?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/teixeira4808/) [![](https://img.shields.io/badge/Email-ff8ccf?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Leotgomes2007@gmail.com) [![](https://img.shields.io/badge/LinkedIn-ff5fa2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardo-teixeira-gomes)
